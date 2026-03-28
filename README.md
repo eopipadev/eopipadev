@@ -1,4 +1,4 @@
-# 👨‍💻 Ryan "eopipa" Alves
+# 👨‍💻 Ryan Alves(eopipa)
 
 **`Desenvolvedor Back-end`**
 
