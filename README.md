@@ -64,6 +64,8 @@ Me chamo Ryan Alves, tenho 22 anos e sou natural de São Paulo. Tecnólogo em An
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" 
 />
+
+/>
     
 <img 
     align="left" 
