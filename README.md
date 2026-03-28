@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Ryan Alves, tenho 22 anos e sou natural de São Paulo. Tecnólogo em Analise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e jogos, compartilho algumas experiências e conhecimentos através do Instagram, com o perfil chamado "[_eopipa](https://www.instagram.com/_eopipa/)".
+Me chamo Ryan Alves, tenho 23 anos, sou de São Paulo e atualmente trabalho como suporte técnico de infraestrutura. Tecnólogo em Analise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e jogos, compartilho algumas experiências e conhecimentos através do Instagram, com o perfil chamado "[_eopipa](https://www.instagram.com/_eopipa/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@eopipa?sub_confirmation=1">
